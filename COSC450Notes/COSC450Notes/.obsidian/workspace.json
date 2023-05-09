@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "c9586c904c36a7ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "62722f03723422bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1479644fd53efa8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Midterm One Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63c82317b9d902bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d28ed1cf74503fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6138edb231279006",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "052d85458aa7f1ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c19b53001774b05",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0b2efa00f1da4f55",
+    "type": "split",
+    "children": [
+      {
+        "id": "e860c8593836af92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "704b5cc87cf97788",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Midterm One Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "390e031b2e449bbc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Midterm One Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb6f19b1f2d45ae0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1adcfcc0817beab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Midterm One Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1479644fd53efa8e",
+  "lastOpenFiles": [
+    "Midterm Two Review.md",
+    "Mini Test Three Notes.md",
+    "Midterm One Notes.md",
+    "Pasted image 20230423113435.png",
+    "Pasted image 20230328224229.png.md",
+    "Pasted image 20230402172959.png",
+    "Pasted image 20230402172729.png",
+    "Pasted image 20230402172224.png",
+    "Pasted image 20230402171236.png",
+    "Pasted image 20230402171216.png",
+    "Pasted image 20230402171150.png",
+    "Pasted image 20230402171148.png",
+    "Pasted image 20230402171023.png",
+    "Pasted image 20230402170126.png",
+    "Screenshot 2023-04-01 at 23.53.41.png.crdownload"
+  ]
+}
